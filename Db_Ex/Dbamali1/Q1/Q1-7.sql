@@ -1,0 +1,4 @@
+SELECT Working_Year , Employee_Location
+FROM DataScienceFieldsSalaryCategorization
+WHERE Salary_In_Rupees BETWEEN 3000000 AND 9000000
+ORDER BY Salary_In_Rupees

@@ -1,0 +1,2 @@
+﻿DELETE FROM Samaad 
+WHERE غذا IS NULL 

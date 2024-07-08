@@ -1,0 +1,3 @@
+SELECT Company_Size
+FROM DataScienceFieldsSalaryCategorization
+WHERE Company_Location = Employee_Location

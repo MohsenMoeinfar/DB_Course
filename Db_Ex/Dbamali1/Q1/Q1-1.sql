@@ -1,0 +1,2 @@
+SELECT Salary_In_Rupees
+FROM DataScienceFieldsSalaryCategorization
